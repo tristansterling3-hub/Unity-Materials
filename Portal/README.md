@@ -4,7 +4,9 @@ Portal material/shader showcase.
 
 ## Preview
 
-<video src="./Portal.mp4" controls muted loop playsinline width="960"></video>
+![Portal Preview](./Portal.png)
+
+[Watch Video Demo](./Portal.mp4)
 
 ## Shader Breakdown
 

@@ -4,7 +4,7 @@ Electricity material/shader showcase.
 
 ## Preview
 
-<video src="./Electricity.mp4" controls muted loop playsinline width="960"></video>
+[Watch Video Demo](./Electricity.mp4)
 
 ## Shader Breakdown
 

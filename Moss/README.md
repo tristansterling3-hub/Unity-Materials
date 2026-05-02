@@ -4,7 +4,9 @@ Moss material/shader showcase.
 
 ## Preview
 
-<video src="./Moss.mp4" controls muted loop playsinline width="960"></video>
+![Moss Preview](./Moss.png)
+
+[Watch Video Demo](./Moss.mp4)
 
 ## Shader Breakdown
 

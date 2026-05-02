@@ -4,7 +4,9 @@ Universal shader showcase.
 
 ## Preview
 
-<video src="./Universal%20Material%20Shader.mp4" controls muted loop playsinline width="960"></video>
+![Universal Shader Preview](./Universal%20Material.png)
+
+[Watch Video Demo](./Universal%20Material%20Shader.mp4)
 
 ## Shader Breakdown
 

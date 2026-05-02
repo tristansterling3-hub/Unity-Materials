@@ -2,17 +2,17 @@
 
 Water material/shader showcase.
 
-## Water 1
+## Preview
 
-<video src="./Water%201_3.mp4" controls muted loop playsinline width="960"></video>
+![Water Preview](./Water.png)
 
-## Water 2
+## Videos
 
-<video src="./Water%202_3.mp4" controls muted loop playsinline width="960"></video>
+[Watch Water Demo 1](./Water%201_3.mp4)
 
-## Water 3
+[Watch Water Demo 2](./Water%202_3.mp4)
 
-<video src="./Water%203_3.mp4" controls muted loop playsinline width="960"></video>
+[Watch Water Demo 3](./Water%203_3.mp4)
 
 ## Shader Breakdown
 

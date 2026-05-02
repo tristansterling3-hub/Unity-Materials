@@ -4,7 +4,7 @@ Slash material/shader showcase.
 
 ## Video
 
-<video src="./Slash.mp4" controls muted loop playsinline width="960"></video>
+[Watch Video Demo](./Slash.mp4)
 
 ## Shader Breakdown
 

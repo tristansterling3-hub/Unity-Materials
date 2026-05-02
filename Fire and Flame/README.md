@@ -4,7 +4,7 @@ Fire and smoke material/shader showcase.
 
 ## Flame
 
-<video src="./Flame.mp4" controls muted loop playsinline width="960"></video>
+[Watch Flame Demo](./Flame.mp4)
 
 ### Flame Shader Breakdown
 
@@ -17,7 +17,7 @@ This flame graph scrolls and distorts the main flame texture, then applies disso
 
 ## Smoke Effect
 
-<video src="./Smoke Effect.mp4" controls muted loop playsinline width="960"></video>
+[Watch Smoke Demo](./Smoke%20Effect.mp4)
 
 ### Smoke Shader Breakdown
 
